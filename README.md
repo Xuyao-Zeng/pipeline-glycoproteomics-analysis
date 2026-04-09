@@ -16,6 +16,8 @@ This pipeline includes the following Python scripts:
 
 5. calculate_fastgsite.py: This script calculates glycosylation sites along the protein sequence for downstream analysis.
 
+6. count20.m: This script counts the occurances of the 20 amino acids centered around the N-glycosylation site, enabling downstream motif analysis.
+
 ## Workflow Examples
 To get started, here are some basic workflows:
 Single Sample Analysis: Run `glyco_pipeline.py` with a specified input file.
