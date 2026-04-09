@@ -18,8 +18,8 @@ This pipeline includes the following Python scripts:
 
 ## Workflow Examples
 To get started, here are some basic workflows:
-**Single Sample Analysis**: Run `glyco_pipeline.py` with a specified input file.
-**Batch Processing**: Use `glyco_pipeline_batch.py` to process all files in a given directory.
+Single Sample Analysis: Run `glyco_pipeline.py` with a specified input file.
+Batch Processing: Use `glyco_pipeline_batch.py` to process all files in a given directory.
 
 ## Data Format Requirements
 The pipeline requires input data in .xlsx unless otherwise stated.
@@ -40,4 +40,5 @@ Detailed logs for error troubleshooting.
 Please list my name and attach a link to this repository when using this pipeline.
 
 For any further questions or issues, feel free to raise an issue on the repository or contact the maintainer directly!
+
 Last updated on 4/9/2026
